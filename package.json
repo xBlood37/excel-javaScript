@@ -1,0 +1,24 @@
+{
+  "name": "excel-javascript",
+  "version": "1.0.0",
+  "description": "JS Excel xBlood37",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBlood37/excel-javaScript.git"
+  },
+  "keywords": [
+    "js",
+    "Javascript"
+  ],
+  "author": "Daniil Bobrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xBlood37/excel-javaScript/issues"
+  },
+  "homepage": "https://github.com/xBlood37/excel-javaScript#readme",
+  "private": true
+}
