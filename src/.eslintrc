@@ -10,7 +10,12 @@
     "arrow-parens": "off",
     "require-jsdoc": "off",
     "linebreak-style": 0,
-    "quotes": "off"
+    "quotes": "off",
+    "object-curly-spacing": "warn",
+    "operator-linebreak": "off",
+    "no-debugger": "off",
+    "no-unused-vars": "warn",
+    "indent": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
