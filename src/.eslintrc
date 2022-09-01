@@ -16,6 +16,7 @@
     "no-debugger": "off",
     "no-unused-vars": "warn",
     "indent": "off"
+    // "guard-for-in": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
