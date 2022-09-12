@@ -1,5 +1,5 @@
-@import "variables";
-@import "mixins";
+@import 'variables';
+@import 'mixins';
 
 .excel__toolbar {
   //   background: darkgrey;
@@ -16,6 +16,6 @@
   height: $toolbar-height;
 
   .button {
-    @include button(gray);
+    @include button(rgb(56, 202, 49));
   }
 }
